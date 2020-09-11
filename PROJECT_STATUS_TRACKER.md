@@ -7,7 +7,7 @@
 |--|--|
 | EN17CS301182 |Prakhar Mangal  |
 |EN17CS301192|Rajaram Joshi|
-|EN17CS301198|Ram Birla|
+|EN17CS301197|Ram Birla|
 
 **Project  Organization:** Medicaps University
 
